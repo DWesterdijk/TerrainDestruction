@@ -27,8 +27,8 @@ Je hebt grofweg 2 weken, hoe deel je deze twee weken in. Wat plan je wanneer om 
 |week 2 | Smoothen it | Finishing touches | Inleveren | Na laten kijken en beoordelen | Na laten kijken en beoordelen |
 
 ## Bronnen
-Welke bronnen heb je gebruikt? Zowel youtube filmpjes als artikelen
- Youtube
- Stack overflow
- Unity Forum
- meerdere programeer forums
+Welke bronnen heb je gebruikt?
+ - Youtube
+ - Stack overflow
+ - Unity Forum
+ - meerdere programeer forums

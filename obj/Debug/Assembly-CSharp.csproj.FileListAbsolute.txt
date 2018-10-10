@@ -1,0 +1,2 @@
+D:\UnityProjects\TerrainDestruction\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+D:\UnityProjects\TerrainDestruction\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
